@@ -23,15 +23,15 @@ We plan to offer the following functions:
 - [Employee Persona](docs/personas/Employee.md)
 
 ## User Journeys
-Office Manager
+### Office Manager
 - [View Dashboard](docs/user_journeys/office_manager_view_dashboard.md)
 - [Analyze Trends](docs/user_journeys/office_manager_analyze_trends.md)
 
-Facility Manager
+### Facility Manager
 - [Add Sensor](docs/user_journeys/facility_manager_add_sensor.md)
 - [Monitor Sensors](docs/user_journeys/facility_manager_monitor_sensors.md)
 
-Employee
+### Employee
 - [Book Desk](docs/user_journeys/employee_book_desk.md)
 - [Book Meeting Room](docs/user_journeys/employee_book_meeting_room.md)
 
