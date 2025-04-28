@@ -4,9 +4,9 @@ A SaaS platform that helps enterprises optimize and understand their office spac
 # Project Overview
 Spacelytics aims to provide real-time insights into workspace usage.
 We want to make use of various sensors, including:
-- motion sensors
-- thermal sensors
-- cameras
+- Motion sensors
+- Thermal sensors
+- Cameras
 as well as data from existing deskbooking tools to enable businesses to make data-driven decisions about their corporate real estate.
 
 We plan to offer the following functions:
