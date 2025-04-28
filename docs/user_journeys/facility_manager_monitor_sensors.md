@@ -14,7 +14,7 @@
 ## Steps
 
 1. Log into the web app.
-2. Navigate to "Sensor Management" panel.
+2. Navigate to "Sensors" page.
 3. View list of all installed sensors.
 4. Check real-time sensor status (active, offline, error).
 5. Click on a sensor to view detailed logs.
