@@ -1,7 +1,37 @@
 # Spacelytics
-Sensor-based office space management tool
+A SaaS platform that helps enterprises optimize and understand their office space utilization through IoT sensor data, interactive dashboards, and smart desk booking functionality.
 
-# User Personas
+# Project Overview
+Spacelytics aims to provide real-time insights into workspace usage.
+We want to make use of various sensors, including:
+- motion sensors
+- thermal sensors
+- cameras
+as well as data from existing deskbooking tools to enable businesses to make data-driven decisions about their corporate real estate.
+
+We plan to offer the following functions:
+- Desk and room booking
+- Integration into existing systems 
+- Integration of various IoT sensors
+- Sensor rental service 
+- Comprehensive analytics tool with real-time data visualization
+
+# Documentation
+## User Personas
 - [Office Manager Persona](docs/personas/Office_Manager.md)
 - [Facility Manager Persona](docs/personas/Facility_Manager.md)
 - [Employee Persona](docs/personas/Employee.md)
+
+## User Journeys (coming soon)
+- 
+
+## Style Guide (coming soon)
+-
+
+# Tech Stack (Planned)
+- Frontend: Next.js, TailwindCSS
+- Backend: Supabase
+- Database: PostgreSQL via Supabase (hosted on AWS)
+- Authentication: Auth0
+- IoT Integration: MQTT, ZigBee
+ 
