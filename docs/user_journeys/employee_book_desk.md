@@ -3,7 +3,7 @@
 ---
 
 ## Persona
-- [Employee](docs/personas/Employee.md)
+- Employee
 
 ## Journey Goal
 - Book a desk for a specific date and time.
