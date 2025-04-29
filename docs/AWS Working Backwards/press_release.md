@@ -1,5 +1,5 @@
 # PRESSEMITTEILUNG  
-## SmartSpace launcht intelligente Plattform zur Optimierung von Büronutzung für hybride Arbeitsmodelle
+## Spacelyticslauncht intelligente Plattform zur Optimierung von Büronutzung für hybride Arbeitsmodelle
 
 **München, 15. Mai 2025** – Das Münchner Startup **Spacelytics** stellt heute seine innovative SaaS-Plattform vor, mit der Unternehmen die tatsächliche Nutzung ihrer Büroflächen transparent machen, optimieren und zukunftsfähig gestalten können.  
 
