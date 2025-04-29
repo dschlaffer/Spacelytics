@@ -33,9 +33,9 @@ Spacelytics wird ab sofort für Pilotkunden in Deutschland und Österreich angeb
 
 ---
 
-## Über SmartSpace
+## Über Spacelytics
 
-SmartSpace wurde 2025 in Berlin gegründet und verfolgt die Mission, Unternehmen dabei zu unterstützen, Arbeitsumgebungen datengestützt, flexibel und nachhaltig zu gestalten. Mit einem Fokus auf Benutzerfreundlichkeit, Datenschutz und Integration treibt SmartSpace die Digitalisierung im Corporate Real Estate Management voran.
+Spacelytics wurde 2025 in Berlin gegründet und verfolgt die Mission, Unternehmen dabei zu unterstützen, Arbeitsumgebungen datengestützt, flexibel und nachhaltig zu gestalten. Mit einem Fokus auf Benutzerfreundlichkeit, Datenschutz und Integration treibt SmartSpace die Digitalisierung im Corporate Real Estate Management voran.
 
 ---
 
