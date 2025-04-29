@@ -1,11 +1,11 @@
-# ❓ FAQ – Häufig gestellte Fragen zu SmartSpace
+# FAQ – Häufig gestellte Fragen zu Spacelytics
 
 ## Allgemeines
 
-### Was ist SmartSpace?
-SmartSpace ist eine Software-as-a-Service (SaaS)-Plattform, die Unternehmen dabei unterstützt, ihre Büroflächen datengestützt zu analysieren, effizienter zu nutzen und flexibler zu gestalten. Mit Hilfe moderner IoT-Sensorik, einer intuitiven Web-App und integrierten Buchungsfunktionen wird die hybride Arbeitswelt intelligenter, transparenter und nachhaltiger.
+### Was ist Spacelytics?
+Spacelytics ist eine Software-as-a-Service (SaaS)-Plattform, die Unternehmen dabei unterstützt, ihre Büroflächen datengestützt zu analysieren, effizienter zu nutzen und flexibler zu gestalten. Mit Hilfe moderner IoT-Sensorik, einer intuitiven Web-App und integrierten Buchungsfunktionen wird die hybride Arbeitswelt intelligenter, transparenter und nachhaltiger.
 
-### Für wen ist SmartSpace gedacht?
+### Für wen ist Spacelytics gedacht?
 Unsere Plattform richtet sich an mittelgroße bis große Unternehmen, die flexible Arbeitsmodelle unterstützen, ihre Flächeneffizienz optimieren und bessere Arbeitsbedingungen für ihre Mitarbeitenden schaffen möchten. Zielnutzer sind insbesondere:
 - Facility Manager:innen
 - Office Manager:innen
@@ -31,7 +31,7 @@ Wir nutzen eine Kombination aus:
 - API-Integration in bestehende Systeme (z. B. Desk Booking Tools, HR-Systeme)
 
 ### Kann ich bestehende Buchungssysteme integrieren?
-Ja, SmartSpace bietet offene Schnittstellen (APIs), mit denen bestehende Systeme angebunden werden können – z. B. OfficeRnD, Condeco, Microsoft Outlook/Teams etc.
+Ja, Spacelytics bietet offene Schnittstellen (APIs), mit denen bestehende Systeme angebunden werden können – z. B. OfficeRnD, Condeco, Microsoft Outlook/Teams etc.
 
 ### Wie funktioniert das Sensor-Mietmodell?
 Wir bieten Sensoren als Mietlösung an – monatlich skalierbar. So können Unternehmen ohne große Vorabinvestitionen starten. Der Aufbau ist Plug-and-Play: Wir liefern, unterstützen beim Setup, und die Daten fließen direkt in die Plattform.
@@ -40,7 +40,7 @@ Wir bieten Sensoren als Mietlösung an – monatlich skalierbar. So können Unte
 
 ## Datenschutz & Sicherheit
 
-### Wie geht SmartSpace mit Datenschutz um?
+### Wie geht Spacelytics mit Datenschutz um?
 Datenschutz steht bei uns an erster Stelle:
 - DSGVO-konforme Verarbeitung
 - Keine personenbezogenen Daten – nur anonymisierte Raumdaten
@@ -71,7 +71,7 @@ Nach Vertragsschluss:
 
 ## Verträge & Preise
 
-### Was kostet SmartSpace?
+### Was kostet Spacelytics?
 Die Preise variieren je nach Funktionsumfang und Sensoranzahl. Unser Preismodell ist modular aufgebaut und umfasst:
 - Plattformlizenz (monatlich)
 - Sensor-Miete (nach Anzahl & Typ)
