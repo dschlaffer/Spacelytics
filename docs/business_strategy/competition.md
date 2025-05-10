@@ -1,7 +1,3 @@
-Im Bereich der Büroflächennutzungsanalyse mittels Sensorik und Softwarelösungen gibt es eine Vielzahl etablierter Anbieter. Diese Unternehmen bieten Technologien zur Erfassung und Analyse von Arbeitsplatzbelegung, Bewegung und Umgebungsbedingungen an, um Unternehmen bei der Optimierung ihrer Büroflächen zu unterstützen. Im Folgenden findest du eine Auswahl relevanter Konkurrenzfirmen mit entsprechenden Quellen:
-
----
-
 ### **1. Spacewell**
 
 Spacewell ist ein belgisches Unternehmen, das sich auf intelligente Gebäude- und Arbeitsplatzlösungen spezialisiert hat. Ihre Softwaremodule integrieren IoT-Sensoren, um Echtzeitdaten über die Nutzung von Schreibtischen und Besprechungsräumen bereitzustellen. Diese Daten unterstützen Unternehmen bei der Raumplanung, dem Portfolio-Management und der Optimierung von Betriebsabläufen. ([Wikipedia][1], [Spacewell | A Nemetschek Company][2])
@@ -42,9 +38,6 @@ XY Sense bietet Sensoren und Analysesoftware zur anonymen Überwachung der Raumn
 
 Logitech hat mit dem "Spot" einen mmWave-Radarsensor entwickelt, der die Anwesenheit von Personen in Räumen erkennt und Umgebungsbedingungen wie Temperatur und CO2 misst. Die Daten helfen Unternehmen, ihre Büroflächen effizienter zu nutzen. ([The Verge][12])
 
----
-
-Diese Unternehmen bieten verschiedene Ansätze zur Erfassung und Analyse der Büroflächennutzung an. Je nach spezifischen Anforderungen und Datenschutzbedenken können unterschiedliche Lösungen geeignet sein. Wenn du weitere Informationen zu einem dieser Anbieter oder eine detaillierte Marktanalyse wünschst, stehe ich gerne zur Verfügung.
 
 [1]: https://en.wikipedia.org/wiki/Spacewell?utm_source=chatgpt.com "Spacewell"
 [2]: https://spacewell.com/solutions/workplace-solutions/workplace-analytics/space-monitor/?utm_source=chatgpt.com "Office Space Monitoring | Occupancy & Utilization - Spacewell"
